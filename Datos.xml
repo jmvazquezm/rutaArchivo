@@ -1,1 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<libreria> 
+  <libro>
+    <autores>
+        <autor>Elizabeth Castro</autor> 
+    <autores>
+    <titulo>XML Guía de Aprendizaje</titulo> 
+    <precio moneda="euros">30</precio>
+    <descriptores>
+        <descriptor>lenguajes<descriptor>
+        <descriptor>XML<descriptor>
+    <descriptores>
+             
+  </libro> 
+  <libro>
+    <autores>
+        <autor>Benoit Marchal</autor> 
+    <autores
+    <titulo>XML con ejemplos</titulo> 
+    <precio moneda="euros">45</precio>
+    <descriptores>
+        <descriptor>lenguajes<descriptor>
+        <descriptor>XML<descriptor>
+    <descriptores>
+   </libro> 
+</libreria>
