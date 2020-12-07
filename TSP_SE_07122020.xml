@@ -1,0 +1,258 @@
+<TrustServiceProvider>
+    <TSPInformation>
+        <TSPName>
+			<Name xml:lang="en">Banco Santander, S.A.</Name>
+			<Name xml:lang="es">Banco Santander, S.A.</Name>
+		</TSPName>
+		<TSPTradeName>
+			<Name xml:lang="en">VATES-A39000013</Name>
+			<Name xml:lang="en">Santander</Name>
+			<Name xml:lang="es">Santander</Name>
+			<Name xml:lang="en">Banco Santander Central Hispano, S.A. CIF: A-39000013</Name>
+			<Name xml:lang="en">Banco Santander S.A. CIF: A-39000013</Name>
+		</TSPTradeName>
+		<TSPAddress>
+			<PostalAddresses>
+				<PostalAddress xml:lang="es">
+					<StreetAddress>Ciudad Grupo Santander. Avd. de Cantabria s/n, edificio Pampa, planta 1</StreetAddress>
+					<Locality>Boadilla del Monte</Locality>
+					<StateOrProvince>Madrid</StateOrProvince>
+					<PostalCode>28660</PostalCode>
+					<CountryName>ES</CountryName>
+				</PostalAddress>
+				<PostalAddress xml:lang="en">
+					<StreetAddress>Ciudad Grupo Santander. Avd. de Cantabria s/n, edificio Pampa, planta 1</StreetAddress>
+					<Locality>Boadilla del Monte</Locality>
+					<StateOrProvince>Madrid</StateOrProvince>
+					<PostalCode>28660</PostalCode>
+					<CountryName>ES</CountryName>
+				</PostalAddress>
+			</PostalAddresses>
+			<ElectronicAddress>
+				<URI xml:lang="en">http://www.gruposantander.es</URI>
+				<URI xml:lang="en">mailto:certificacion.universitaria@gruposantander.com</URI>
+			</ElectronicAddress>
+		</TSPAddress>
+		<TSPInformationURI>
+			<URI xml:lang="en">http://www.santander.com/csgs/Satellite/CFWCSancomQP01/es_ES/Corporativo/Sostenibilidad/Santander-Universidades/Otras-iniciativas.html?leng=en_GB</URI>
+			<URI xml:lang="es">http://www.gruposantander.es</URI>
+		</TSPInformationURI>
+	</TSPInformation>
+	<TSPServices>
+		<TSPService>
+			<ServiceInformation>
+				<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+				<ServiceName>
+					<Name xml:lang="es">Certificados Reconocidos emitidos por CA  WG10 Qualified Identification Root CA</Name>
+					<Name xml:lang="en">Qualified Certificates issued by CA WG10 Qualified Identification Root CA</Name>
+				</ServiceName>
+				<ServiceDigitalIdentity>
+					<DigitalId>
+						<X509Certificate>MIIDwzCCAyygAwIBAgIQb2DZOwHrRP+mAnrmH5txyTANBgkqhkiG9w0BAQUFADCB0TEaMBgGA1UECBMRU2FudGFuZGVyIC0gU3BhaW4xHjAcBgNVBAcTFVBhc2VvIGRlIFBlcmVkYSwgOS0xMjE+MDwGA1UEChM1QmFuY28gU2FudGFuZGVyIENlbnRyYWwgSGlzcGFubywgUy5BLiBDSUY6IEEtMzkwMDAwMTMxIzAhBgNVBAsTGkRpcmVjY2lvbiBkZSBVbml2ZXJzaWRhZGVzMS4wLAYDVQQDEyVXRzEwIFF1YWxpZmllZCBJZGVudGlmaWNhdGlvbiBSb290IENBMB4XDTA1MTEyNDAwMDAwMFoXDTE1MTEyMzIzNTk1OVowgdExGjAYBgNVBAgTEVNhbnRhbmRlciAtIFNwYWluMR4wHAYDVQQHExVQYXNlbyBkZSBQZXJlZGEsIDktMTIxPjA8BgNVBAoTNUJhbmNvIFNhbnRhbmRlciBDZW50cmFsIEhpc3Bhbm8sIFMuQS4gQ0lGOiBBLTM5MDAwMDEzMSMwIQYDVQQLExpEaXJlY2Npb24gZGUgVW5pdmVyc2lkYWRlczEuMCwGA1UEAxMlV0cxMCBRdWFsaWZpZWQgSWRlbnRpZmljYXRpb24gUm9vdCBDQTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAtN/YPnb9/JTTvUQtLJjgGa8unu6OGT2Yhc30E82QhEuKeMA7VYxQuCiXJZ+uryO5JglDMexROH6Jn6irjUVBq9vJBncawfNtWY7pS2rOFhlG5ftq9x07/K4HEBHagXfR0PKMCRHVA4obZGWulZ36B/wWQjygKvOXK1ODA7t9N5kCAwEAAaOBmTCBljAPBgNVHRMECDAGAQH/AgEAMAsGA1UdDwQEAwIBBjARBglghkgBhvhCAQEEBAMCAQYwIwYDVR0RBBwwGqQYMBYxFDASBgNVBAMTC1ByaXZhdGUxLTMzMB0GA1UdDgQWBBQg/9bVbxm+4TSzCmZqtk+fdxEHbjAfBgNVHSMEGDAWgBQg/9bVbxm+4TSzCmZqtk+fdxEHbjANBgkqhkiG9w0BAQUFAAOBgQAqwSBqibMfMXHInSexInDKiRwWlYAI0DjQz5ZnF0v/vHbqOjNqpxyJHaO7z2xnHV5nQAIXYwDqk/uJjnBML/W3N6KV4z1VkDlYRclaWTxXyltez1j7Qr1lCrf49IZr0uydjqsqE3eOBu6ByMWcCDL7T3HJRGkaD3GZGtdd6dPLbw==</X509Certificate>
+					</DigitalId>
+					<DigitalId>
+						<X509SubjectName>CN=WG10 Qualified Identification Root CA, OU=Direccion de Universidades, O="Banco Santander Central Hispano, S.A. CIF: A-39000013", L="Paseo de Pereda, 9-12", ST=Santander - Spain</X509SubjectName>
+					</DigitalId>
+				</ServiceDigitalIdentity>
+				<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/withdrawn</ServiceStatus>
+				<StatusStartingTime>2016-06-30T22:00:00Z</StatusStartingTime>
+				<ServiceInformationExtensions>
+					<Extension Critical="true">
+						<AdditionalServiceInformation>
+							<URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
+						</AdditionalServiceInformation>
+					</Extension>
+				</ServiceInformationExtensions>
+			</ServiceInformation>
+			<ServiceHistory>
+				<ServiceHistoryInstance>
+					<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+					<ServiceName>
+						<Name xml:lang="es">Certificados Reconocidos emitidos por CA  WG10 Qualified Identification Root CA</Name>
+						<Name xml:lang="en">Qualified Certificates issued by CA WG10 Qualified Identification Root CA</Name>
+					</ServiceName>
+					<ServiceDigitalIdentity>
+						<DigitalId>
+							<X509SubjectName>CN=WG10 Qualified Identification Root CA, OU=Direccion de Universidades, O="Banco Santander Central Hispano, S.A. CIF: A-39000013", L="Paseo de Pereda, 9-12", ST=Santander - Spain</X509SubjectName>
+						</DigitalId>
+						<DigitalId>
+							<X509SKI>IP/W1W8ZvuE0swpmarZPn3cRB24=</X509SKI>
+						</DigitalId>
+					</ServiceDigitalIdentity>
+					<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/supervisionceased</ServiceStatus>
+					<StatusStartingTime>2015-11-24T01:00:00Z</StatusStartingTime>
+				</ServiceHistoryInstance>
+				<ServiceHistoryInstance>
+					<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+					<ServiceName>
+						<Name xml:lang="es">Certificados Reconocidos emitidos por CA  WG10 Qualified Identification Root CA</Name>
+						<Name xml:lang="en">Qualified Certificates issued by CA WG10 Qualified Identification Root CA</Name>
+					</ServiceName>
+					<ServiceDigitalIdentity>
+						<DigitalId>
+							<X509SubjectName>CN=WG10 Qualified Identification Root CA, OU=Direccion de Universidades, O="Banco Santander Central Hispano, S.A. CIF: A-39000013", L="Paseo de Pereda, 9-12", ST=Santander - Spain</X509SubjectName>
+						</DigitalId>
+						<DigitalId>
+							<X509SKI>IP/W1W8ZvuE0swpmarZPn3cRB24=</X509SKI>
+						</DigitalId>
+					</ServiceDigitalIdentity>
+					<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/undersupervision</ServiceStatus>
+					<StatusStartingTime>2009-04-13T00:00:00Z</StatusStartingTime>
+				</ServiceHistoryInstance>
+			</ServiceHistory>
+		</TSPService>
+		<TSPService>
+			<ServiceInformation>
+				<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+				<ServiceName>
+					<Name xml:lang="en">Santander Digital Signature</Name>
+					<Name xml:lang="es">Santander Digital Signature</Name>
+				</ServiceName>
+				<ServiceDigitalIdentity>
+					<DigitalId>
+						<X509Certificate>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</X509Certificate>
+					</DigitalId>
+				</ServiceDigitalIdentity>
+				<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/withdrawn</ServiceStatus>
+				<StatusStartingTime>2018-10-22T00:00:00Z</StatusStartingTime>
+				<SchemeServiceDefinitionURI>
+					<URI xml:lang="en">http://www.minetur.gob.es/telecomunicaciones/es-ES/Servicios/FirmaElectronica/Paginas/SchemeService_en.aspx</URI>
+					<URI xml:lang="es">http://www.minetur.gob.es/telecomunicaciones/es-ES/Servicios/FirmaElectronica/Paginas/SchemeService_es.aspx</URI>
+				</SchemeServiceDefinitionURI>
+				<ServiceInformationExtensions>
+					<Extension Critical="true">
+						<ns5:Qualifications>
+							<ns5:QualificationElement>
+								<ns5:Qualifiers>
+									<ns5:Qualifier uri="http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/NotQualified"/>
+								</ns5:Qualifiers>
+								<ns5:CriteriaList assert="atLeastOne">
+									<ns5:PolicySet>
+										<ns5:PolicyIdentifier>
+											<ns3:Identifier Qualifier="OIDAsURN">urn:oid:1.3.6.1.4.1.13177.10.1.5.1 </ns3:Identifier>
+										</ns5:PolicyIdentifier>
+									</ns5:PolicySet>
+									<ns5:PolicySet>
+										<ns5:PolicyIdentifier>
+											<ns3:Identifier Qualifier="OIDAsURN">urn:oid:1.3.6.1.4.1.13177.10.1.21.1</ns3:Identifier>
+										</ns5:PolicyIdentifier>
+									</ns5:PolicySet>
+									<ns5:PolicySet>
+										<ns5:PolicyIdentifier>
+											<ns3:Identifier Qualifier="OIDAsURN">urn:oid:1.3.6.1.4.1.13177.10.1.21.2 </ns3:Identifier>
+										</ns5:PolicyIdentifier>
+									</ns5:PolicySet>
+								</ns5:CriteriaList>
+							</ns5:QualificationElement>
+						</ns5:Qualifications>
+					</Extension>
+					<Extension Critical="true">
+						<AdditionalServiceInformation>
+							<URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
+						</AdditionalServiceInformation>
+					</Extension>
+				</ServiceInformationExtensions>
+			</ServiceInformation>
+			<ServiceHistory>
+				<ServiceHistoryInstance>
+					<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+					<ServiceName>
+						<Name xml:lang="en">Santander Digital Signature</Name>
+						<Name xml:lang="es">Santander Digital Signature</Name>
+					</ServiceName>
+					<ServiceDigitalIdentity>
+						<DigitalId>
+							<X509SubjectName>CN=Santander Digital Signature, OU=Dirección de Universidades, O=Banco Santander S.A. CIF: A-39000013, L=Paseo de Pereda 9-12, ST=Santander, C=ES</X509SubjectName>
+						</DigitalId>
+						<DigitalId>
+							<X509SKI>S4y6oi6+9bMkvmbUTUiOvV3/v60=</X509SKI>
+						</DigitalId>
+					</ServiceDigitalIdentity>
+					<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/granted</ServiceStatus>
+					<StatusStartingTime>2016-06-30T22:00:00Z</StatusStartingTime>
+					<ServiceInformationExtensions>
+						<Extension Critical="true">
+							<ns5:Qualifications>
+								<ns5:QualificationElement>
+									<ns5:Qualifiers>
+										<ns5:Qualifier uri="http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/NotQualified"/>
+									</ns5:Qualifiers>
+									<ns5:CriteriaList assert="atLeastOne">
+										<ns5:PolicySet>
+											<ns5:PolicyIdentifier>
+												<ns3:Identifier Qualifier="OIDAsURN">urn:oid:1.3.6.1.4.1.13177.10.1.5.1 </ns3:Identifier>
+											</ns5:PolicyIdentifier>
+										</ns5:PolicySet>
+										<ns5:PolicySet>
+											<ns5:PolicyIdentifier>
+												<ns3:Identifier Qualifier="OIDAsURN">urn:oid:1.3.6.1.4.1.13177.10.1.21.1</ns3:Identifier>
+											</ns5:PolicyIdentifier>
+										</ns5:PolicySet>
+										<ns5:PolicySet>
+											<ns5:PolicyIdentifier>
+												<ns3:Identifier Qualifier="OIDAsURN">urn:oid:1.3.6.1.4.1.13177.10.1.21.2 </ns3:Identifier>
+											</ns5:PolicyIdentifier>
+										</ns5:PolicySet>
+									</ns5:CriteriaList>
+								</ns5:QualificationElement>
+							</ns5:Qualifications>
+						</Extension>
+						<Extension Critical="true">
+							<AdditionalServiceInformation>
+								<URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
+							</AdditionalServiceInformation>
+						</Extension>
+					</ServiceInformationExtensions>
+				</ServiceHistoryInstance>
+				<ServiceHistoryInstance>
+					<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+					<ServiceName>
+						<Name xml:lang="en">Santander Digital Signature</Name>
+						<Name xml:lang="es">Santander Digital Signature</Name>
+					</ServiceName>
+					<ServiceDigitalIdentity>
+						<DigitalId>
+							<X509SubjectName>CN=Santander Digital Signature, OU=Dirección de Universidades, O=Banco Santander S.A. CIF: A-39000013, L=Paseo de Pereda 9-12, ST=Santander, C=ES</X509SubjectName>
+						</DigitalId>
+						<DigitalId>
+							<X509SKI>S4y6oi6+9bMkvmbUTUiOvV3/v60=</X509SKI>
+						</DigitalId>
+					</ServiceDigitalIdentity>
+					<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/undersupervision</ServiceStatus>
+					<StatusStartingTime>2016-01-24T23:00:00Z</StatusStartingTime>
+					<ServiceInformationExtensions>
+						<Extension Critical="true">
+							<ns5:Qualifications>
+								<ns5:QualificationElement>
+									<ns5:Qualifiers>
+										<ns5:Qualifier uri="http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/QCForLegalPerson"/>
+									</ns5:Qualifiers>
+									<ns5:CriteriaList assert="atLeastOne">
+										<ns5:PolicySet>
+											<ns5:PolicyIdentifier>
+												<ns3:Identifier Qualifier="OIDAsURN">urn:oid:1.3.6.1.4.1.13177.10.1.5.1 </ns3:Identifier>
+											</ns5:PolicyIdentifier>
+										</ns5:PolicySet>
+										<ns5:PolicySet>
+											<ns5:PolicyIdentifier>
+												<ns3:Identifier Qualifier="OIDAsURN">urn:oid:1.3.6.1.4.1.13177.10.1.21.1</ns3:Identifier>
+											</ns5:PolicyIdentifier>
+										</ns5:PolicySet>
+										<ns5:PolicySet>
+											<ns5:PolicyIdentifier>
+												<ns3:Identifier Qualifier="OIDAsURN">urn:oid:1.3.6.1.4.1.13177.10.1.21.2 </ns3:Identifier>
+											</ns5:PolicyIdentifier>
+										</ns5:PolicySet>
+									</ns5:CriteriaList>
+								</ns5:QualificationElement>
+							</ns5:Qualifications>
+						</Extension>
+					</ServiceInformationExtensions>
+				</ServiceHistoryInstance>
+			</ServiceHistory>
+		</TSPService>
+	</TSPServices>
+</TrustServiceProvider>
+<!-- Agregar tantos proveedores como sea necesario -->
+<TrustServiceProvider>
+</TrustServiceProvider>
